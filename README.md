@@ -16,7 +16,7 @@ calculator include event listeners, if-else statements, operators, loops, and so
 
 ## SOURCE CODE STRUCTURE
 
-CALCULATOR [live](https://oasis-infobyte-calculator-manoj-kumar.netlify.app/)
+CALCULATOR [live](https://oasis-infobyte-calculator-manoj-kumar.netlify.app/) AND [video](https://youtu.be/oWPPjq5zyT8)
 
 ```bash
 OASIS INFOBYTE
