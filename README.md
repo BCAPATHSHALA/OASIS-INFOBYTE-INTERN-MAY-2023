@@ -16,7 +16,7 @@ calculator include event listeners, if-else statements, operators, loops, and so
 
 ## SOURCE CODE STRUCTURE
 
-CALCULATOR [live](https://pip.pypa.io/en/stable/)
+CALCULATOR [live](https://oasis-infobyte-calculator-manoj-kumar.netlify.app/)
 
 ```bash
 OASIS INFOBYTE
