@@ -1,5 +1,4 @@
 let input = document.querySelector("#inputfield");
-let result = document.querySelector("#calc-typed");
 const buttons = document.querySelectorAll("button");
 
 let string = "";
