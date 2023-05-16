@@ -24,6 +24,31 @@ OASIS INFOBYTE
        |html.index
        |script.js
        |styles.css
+  |README.md
 
 # Date: 15-05-2023
+```
+
+# LEVEL 2 - TASK2 (Tribute Page)
+
+With a basic understanding of HTML and CSS, you can easily
+create a page for someone you admire. Write about what
+you adore in the person, add images, give an appealing
+layout, and use paragraphs appropriately. You can also play
+around with different font styles and background colors.
+
+## SOURCE CODE STRUCTURE
+
+TRIBUTE PAGE [live](https://oasis-infobyte-tribute-manoj-kumar.netlify.app/) AND [video](https://youtu.be/oWPPjq5zyT8)
+
+```bash
+OASIS INFOBYTE
+  |CALCULATOR
+  |TRIBUTE PAGE
+       |html.index
+       |stevejobs.jpeg
+       |styles.css
+  |README.md
+
+# Date: 16-05-2023
 ```
