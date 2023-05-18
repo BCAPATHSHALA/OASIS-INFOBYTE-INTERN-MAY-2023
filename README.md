@@ -52,3 +52,65 @@ OASIS INFOBYTE
 
 # Date: 16-05-2023
 ```
+
+# LEVEL 2 - TASK3 (To-Do List Web App)
+
+Develop a basic to-do app that enables a user to add daily tasks.
+
+The to-do web app must allow users to add new items to a list, and items
+added to a list must be visible. Also, a user can mark a task “complete”
+upon its successful completion, and these completed tasks must appear
+on a separate list, say Completed Tasks.
+
+You can also add a separate section titled Pending Tasks that will list all
+the tasks that require completion. In such a case, the to-do list will be a
+union of the Pending Tasks list and the Completed Tasks list. Irrespective
+of the list, a user must be able to delete or edit tasks from it.
+
+To further increase the web app’s complexity or make it more detailed,
+you can add the date and time when a task is added and/or completed.
+
+
+## SOURCE CODE STRUCTURE
+
+TRIBUTE PAGE [live](https://oasis-infobyte-tribute-manoj-kumar.netlify.app/) AND [video](https://youtu.be/a8BBNCwp0W8)
+
+```bash
+OASIS INFOBYTE
+  |CALCULATOR
+  |TRIBUTE PAGE
+  |TO-DO LIST WEB APP
+   ├── todolist
+       ├── node_modules
+       ├── package-lock.json
+       ├── package.json
+       ├── .gitignore
+       ├── README.md
+       ├── public
+       │   ├── favicon.ico
+       │   ├── index.html
+       │   ├── logo192.png
+       │   ├── logo512.png
+       │   ├── robots.txt
+       │   └── manifest.json
+       └── src
+           ├── assets
+           │    └── logo.webp
+           ├── components
+           │   ├── Header.jsx
+           │   ├── LandingPage.jsx
+           │   ├── MetaData.jsx
+           │   ├── ModalUpdate.jsx
+           │   ├── NotFoundPage.jsx
+           │   ├── Todoapp.jsx
+           │   ├── TodoListForm.jsx
+           │   └── TodoListTask.jsx
+           ├── Redux
+           │   ├── createSlice.js
+           │   └── store.js
+           ├── App.js
+           ├── ColorModeSwitcher.js    
+           └── index.js 
+
+# Date: 18-05-2023
+```
