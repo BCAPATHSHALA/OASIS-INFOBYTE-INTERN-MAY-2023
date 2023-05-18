@@ -70,10 +70,9 @@ of the list, a user must be able to delete or edit tasks from it.
 To further increase the web app’s complexity or make it more detailed,
 you can add the date and time when a task is added and/or completed.
 
-
 ## SOURCE CODE STRUCTURE
 
-TRIBUTE PAGE [live](https://to-do-list-web-app-manoj-kumar.vercel.app/) AND [video](https://youtu.be/a8BBNCwp0W8)
+TRIBUTE PAGE [live](https://to-do-list-web-app-manoj-kumar.vercel.app/) AND [video](https://youtu.be/4CJLxou9FRQ)
 
 ```bash
 OASIS INFOBYTE
@@ -109,8 +108,8 @@ OASIS INFOBYTE
            │   ├── createSlice.js
            │   └── store.js
            ├── App.js
-           ├── ColorModeSwitcher.js    
-           └── index.js 
+           ├── ColorModeSwitcher.js
+           └── index.js
 
 # Date: 18-05-2023
 ```
