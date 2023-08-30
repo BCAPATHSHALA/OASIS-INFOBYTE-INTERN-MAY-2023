@@ -16,7 +16,7 @@ calculator include event listeners, if-else statements, operators, loops, and so
 
 ## SOURCE CODE STRUCTURE
 
-CALCULATOR [live](https://oasis-infobyte-calculator-manoj-kumar.netlify.app/) AND [video](https://youtu.be/MFo9ME5SJo8)
+CALCULATOR [live](https://oasis-infobyte-calculator-manoj-kumar.netlify.app/)
 
 ```bash
 OASIS INFOBYTE
@@ -39,7 +39,7 @@ around with different font styles and background colors.
 
 ## SOURCE CODE STRUCTURE
 
-TRIBUTE PAGE [live](https://oasis-infobyte-tribute-manoj-kumar.netlify.app/) AND [video](https://youtu.be/a8BBNCwp0W8)
+TRIBUTE PAGE [live](https://oasis-infobyte-tribute-manoj-kumar.netlify.app/)
 
 ```bash
 OASIS INFOBYTE
@@ -72,7 +72,7 @@ you can add the date and time when a task is added and/or completed.
 
 ## SOURCE CODE STRUCTURE
 
-TRIBUTE PAGE [live](https://to-do-list-web-app-manoj-kumar.vercel.app/) AND [video](https://youtu.be/4CJLxou9FRQ)
+TRIBUTE PAGE [live](https://to-do-list-web-app-manoj-kumar.vercel.app/) 
 
 ```bash
 OASIS INFOBYTE
