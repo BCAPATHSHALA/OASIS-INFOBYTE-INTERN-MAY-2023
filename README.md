@@ -72,7 +72,7 @@ you can add the date and time when a task is added and/or completed.
 
 ## SOURCE CODE STRUCTURE
 
-TRIBUTE PAGE [live](https://to-do-list-web-app-manoj-kumar.vercel.app/) 
+TO DO APP [live](https://to-do-list-web-app-manoj-kumar.vercel.app/) 
 
 ```bash
 OASIS INFOBYTE
